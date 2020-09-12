@@ -25,7 +25,6 @@ def getbmp():
         # print("sum: " + str(sum))
         # print("count: " + str(len(dataarray)))
         print("avg: " + str(pulse_sum / len(dataarray)))
-        #maiko 8/25
         avg = sum / len(dataarray)
         #return dataarray
         return avg
